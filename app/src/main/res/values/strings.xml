@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PieChart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="pie_chart">Pie Chart con mpAndroidChartLibrery</string>
+</resources>
