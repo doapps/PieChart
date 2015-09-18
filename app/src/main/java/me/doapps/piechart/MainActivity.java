@@ -55,6 +55,11 @@ public class MainActivity extends ActionBarActivity {
         pieChart.setData(data);
         pieChart.highlightValues(null);
         pieChart.invalidate();
+
+        /*Ocutar descripcion*/
+        pieChart.setDescription("");
+        /*Ocultar leyenda*/
+        pieChart.setDrawLegend(false);
     }
 }
 
